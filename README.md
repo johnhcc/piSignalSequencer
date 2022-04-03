@@ -10,4 +10,4 @@ The signal must be physically wired to the Raspberry Pi via a relay module card,
 
 # Main site
 
-This is the GitHub stub page for the software; please access it [here](https://vorticity.cc/piSignalSequencer).
+This is currently a stub page; the software can be accessed [here](https://vorticity.cc/piSignalSequencer).
